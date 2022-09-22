@@ -11,8 +11,8 @@ comments: true
       
 ## 클래스 타입을 사용하는 법
 
-```java
-1) 
+```
+1)
 Class<User> class = User.class;
 
 2)
@@ -27,7 +27,7 @@ Class<?> class = Class.forName("org.example.model.User");
 
 ## 실전 사용법
 
-```java
+```
 @Controller, @Service 를 사용하는 모든 클래스 찾기
 
 private Set<Class<?>> getAnnotationType(List<Class<? extends Annotation>> annotations){   
@@ -43,4 +43,8 @@ private Set<Class<?>> getAnnotationType(List<Class<? extends Annotation>> annota
 
 ```
 
+> Post By QuiD-0
+> 
+>  
+> 2022-08-23 TIL
 
