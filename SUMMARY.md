@@ -2,6 +2,7 @@
 
 * [QuiD-0](README.md)
 
-## study
+## 🍁 study
 
-* [test Page](study/test-page.md)
+* [😎 Dev](study/dev/README.md)
+  * [Reflection](study/dev/reflection.md)
