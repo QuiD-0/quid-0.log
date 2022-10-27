@@ -1,5 +1,6 @@
 ---
 description: 안녕하세요
+coverY: 0
 ---
 
 # QuiD-0
