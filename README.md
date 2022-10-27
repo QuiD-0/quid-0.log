@@ -1,7 +1,7 @@
 ---
 description: 안녕하세요
 coverY: 0
-layout: landing
+layout: editorial
 ---
 
 # QuiD-0
