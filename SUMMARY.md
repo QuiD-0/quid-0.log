@@ -4,5 +4,5 @@
 
 ## 🍁 study
 
-* [😎 Dev](study/dev/README.md)
+* [😎 Dev](study/test-page.md)
   * [Reflection](study/dev/reflection.md)
