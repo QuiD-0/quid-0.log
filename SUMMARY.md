@@ -9,13 +9,13 @@
   * [데이터베이스 성능 핵심](study/database/undefined.md)
   * [인덱스](study/database/undefined-1.md)
 * [🕹 Redis](study/redis/README.md)
-  * [Redis with Springboot](study/redis/redis-with-springboot.md)
+  * [Redis With Springboot](study/redis/redis-with-springboot.md)
   * [RedisTemplate](study/redis/redistemplate.md)
   * [Cacheable](study/redis/cacheable.md)
 * [🥝 Kafka](study/kafka/README.md)
-  * [Page 1](study/kafka/page-1.md)
+  * [Kafka With Spring](study/kafka/kafka-with-spring.md)
 * [🌸 RxJava](study/rxjava/README.md)
-  * [Untitled](study/rxjava/untitled.md)
+  * [RxJava With Spring](study/rxjava/rxjava-with-spring.md)
 
 ## 😣 ErrorLog
 

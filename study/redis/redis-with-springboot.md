@@ -1,4 +1,4 @@
-# Redis with Springboot
+# Redis With Springboot
 
 ## docker-compose
 
@@ -18,7 +18,7 @@ services:
       - 6379:6379
 ```
 
-## 의존성
+## build.gradle
 
 ```groovy
 dependencies {
