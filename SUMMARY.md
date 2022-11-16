@@ -4,5 +4,5 @@
 
 ## 🍁 study
 
-* [😎 Dev](study/test-page.md)
-  * [Reflection](study/dev/reflection.md)
+* [😎 DataBase](study/database/README.md)
+  * [정규화 VS 비정규화](study/database/vs.md)
