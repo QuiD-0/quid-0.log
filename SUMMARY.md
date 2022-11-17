@@ -16,8 +16,10 @@
   * [Cacheable](study/redis/cacheable.md)
 * [🥝 Kafka](study/kafka/README.md)
   * [Kafka With Spring](study/kafka/kafka-with-spring.md)
-* [🌸 RxJava](study/rxjava/README.md)
-  * [RxJava With Spring](study/rxjava/rxjava-with-spring.md)
+* [🌸 Java](study/java/README.md)
+  * [Record](study/java/record.md)
+  * [RxJava](study/java/rxjava/README.md)
+    * [RxJava With Spring](study/java/rxjava/rxjava-with-spring.md)
 
 ## 😣 ErrorLog
 
