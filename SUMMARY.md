@@ -9,6 +9,7 @@
   * [데이터베이스 성능 핵심](study/database/undefined.md)
   * [인덱스](study/database/undefined-1.md)
   * [인덱스 자료구조](study/database/undefined-2.md)
+  * [Index With Jpa](study/database/index-with-jpa.md)
   * [클러스터 인덱스](study/database/undefined-3.md)
 * [🕹 Redis](study/redis/README.md)
   * [Redis With Springboot](study/redis/redis-with-springboot.md)
