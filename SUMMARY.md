@@ -18,6 +18,8 @@
   * [RedisTemplate 직렬화시 @Class없애기](study/redis/redistemplate-class.md)
 * [🥝 Kafka](study/kafka/README.md)
   * [Kafka With Spring](study/kafka/kafka-with-spring.md)
+  * [kafka producer](study/kafka/kafka-producer.md)
+  * [kafka consumer](study/kafka/kafka-consumer.md)
 * [🌸 Java](study/java/README.md)
   * [Record](study/java/record.md)
   * [RxJava](study/java/rxjava/README.md)
