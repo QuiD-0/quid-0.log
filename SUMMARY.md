@@ -15,6 +15,7 @@
   * [Redis With Springboot](study/redis/redis-with-springboot.md)
   * [RedisTemplate](study/redis/redistemplate.md)
   * [Cacheable](study/redis/cacheable.md)
+  * [RedisTemplate 직렬화시 @Class없애기](study/redis/redistemplate-class.md)
 * [🥝 Kafka](study/kafka/README.md)
   * [Kafka With Spring](study/kafka/kafka-with-spring.md)
 * [🌸 Java](study/java/README.md)

@@ -20,7 +20,7 @@ String content,LocalDate date, LocalDateTime createdAt) {
 
 
 
-## class 사용할 경우
+## 기존의class 를사용할 경우
 
 ```java
 @Getter
