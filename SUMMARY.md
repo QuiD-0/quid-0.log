@@ -25,6 +25,9 @@
   * [Record](study/java/record.md)
   * [RxJava](study/java/rxjava/README.md)
     * [RxJava With Spring](study/java/rxjava/rxjava-with-spring.md)
+* [Kotlin](study/kotlin/README.md)
+  * [val 와 var](study/kotlin/val-var.md)
+  * [Null safety](study/kotlin/null-safety.md)
 * [🤖 Open Ai](study/open-ai/README.md)
   * [Open Ai With Spring](study/open-ai/open-ai-with-spring.md)
 
