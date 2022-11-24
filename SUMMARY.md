@@ -28,6 +28,8 @@
 * [Kotlin](study/kotlin/README.md)
   * [val 와 var](study/kotlin/val-var.md)
   * [Null safety](study/kotlin/null-safety.md)
+  * [Type](study/kotlin/type.md)
+  * [String](study/kotlin/string.md)
 
 ## 😣 ErrorLog
 
