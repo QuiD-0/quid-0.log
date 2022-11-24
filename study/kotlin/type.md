@@ -7,8 +7,6 @@ val num1 = 1 // num1은 Int형
 val num2 = 1L // num2은 Long형
 ```
 
-
-
 ## Type 변환
 
 ```kotlin
@@ -31,8 +29,6 @@ val toDouble = num2.toDouble()
 
 <mark style="color:green;">as?</mark> -> null이라면 null반환, 아니라면 뒤의 타입으로 반환
 
-
-
 ## Any
 
 자바의 Object 타입
@@ -41,7 +37,14 @@ val toDouble = num2.toDouble()
 
 null을 포함할 수 없어서 null을   사용하고 싶다면 Any? 를 사용
 
-
+```kotlin
+fun anyFunction() {
+    val any = 1
+    if (any is Any) {
+        println("any is Any")
+    }
+}
+```
 
 ## Unit
 
@@ -50,6 +53,13 @@ java의 void
 void와 다르게 Unit은 그 자체로 타입 인자로 사용 가능
 
 함수형 프로그래밍에서 Unit은 단 하나의 인스턴스만 가지는타입을 의미
+
+```kotlin
+fun unitFun(): Unit {
+    println("unitFun")
+}
+
+```
 
 
 
