@@ -37,4 +37,4 @@
 
 ## 🤖 Tech
 
-* [Open Ai](tech/open-ai.md)
+* [Open Ai](study/open-ai/open-ai-with-spring.md)
