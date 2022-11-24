@@ -31,7 +31,7 @@ genericjackson2jsonredisserializer 를 사용하면 간단하게 class를 직렬
  }
 ```
 
-ValueSerializer를 <mark style="color:green;">Jackson2JsonRedisSerializer(Object.class)</mark>으로 지정 해 준다.
+ValueSerialzer를 <mark style="color:green;">Jackson2JsonRedisSerializer(Object.class)</mark>으로 지정 해 준다.
 
 혹은 원하는 클래스 별로 RedisTemplate를 여러개생성해도 되지만&#x20;
 
