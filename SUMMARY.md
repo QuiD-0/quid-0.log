@@ -32,6 +32,7 @@
   * [String](study/kotlin/string.md)
 * [MongoDB](study/mongodb/README.md)
   * [Replica Set](study/mongodb/replica-set.md)
+  * [Sharded Cluster](study/mongodb/sharded-cluster.md)
 
 ## 😣 ErrorLog
 
