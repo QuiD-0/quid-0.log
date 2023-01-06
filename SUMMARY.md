@@ -37,6 +37,7 @@
   * [Feign With Spring](study/feign-client/feign-with-spring.md)
   * [Interceptor](study/feign-client/interceptor.md)
   * [Logger](study/feign-client/logger.md)
+  * [ErrorDecoder](study/feign-client/errordecoder.md)
 
 ## 😣 ErrorLog
 
