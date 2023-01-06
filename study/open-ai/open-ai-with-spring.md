@@ -1,4 +1,4 @@
-# Open Ai With Spring
+# 🤖 Open Ai
 
 ## build.gradle
 
