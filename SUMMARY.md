@@ -18,6 +18,7 @@
   * [RedisTemplate](study/redis/redistemplate.md)
   * [Cacheable](study/redis/cacheable.md)
   * [RedisTemplate 직렬화시 @Class없애기](study/redis/redistemplate-class.md)
+  * [Redisson](study/redis/redisson.md)
   * [동시성 제어](study/redis/undefined.md)
 * [🛼 Kafka](study/kafka/README.md)
   * [Kafka With Spring](study/kafka/kafka-with-spring.md)
