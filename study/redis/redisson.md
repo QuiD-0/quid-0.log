@@ -21,7 +21,7 @@ try {
 }
 ```
 
-Redisson은 특정 시간 내에 lock을 얻지 못하면 자동으로 unlock 하도록 할 수 있는 `tryLock()` 을 제공 합니다. 또한 일정 시간 내에 lock을 얻지 못하면 자동으로 unlock 하도록 할 수 있습니다.
+Redisson은 특정 시간 내에 lock을 얻지 못하면 자동으로 unlock 하도록 할 수 있는 `tryLock()` 을 제공 합니다.&#x20;
 
 ```java
 import java.util.concurrent.TimeUnit;
