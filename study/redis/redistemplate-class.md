@@ -12,7 +12,16 @@ genericjackson2jsonredisserializer 를 사용하면 간단하게 class를 직렬
 
 ```log
 127.0.0.1:6379> get user::quid
-"{\"@class\":\"com.quid.sns.user.User\",\"registeredAt\":[2022,10,25,17,1,32,608662000],\"updatedAt\":[2022,10,25,17,1,32,608662000],\"removedAt\":null,\"id\":3,\"userName\":\"quid\",\"password\":\"$2a$10$UQuKxQrwxbJ51ot1k0EhBeG1aUos2IMUAZsGWsipZ1dyTi8bqzzqC\",\"role\":\"USER\"}"
+"{
+\"@class\":\"com.quid.sns.user.User\",
+\"registeredAt\":[2022,10,25,17,1,32,608662000],
+\"updatedAt\":[2022,10,25,17,1,32,608662000],
+\"removedAt\":null,
+\"id\":3,
+\"userName\":\"quid\",
+\"password\":\"$2a$10$UQuKxQrwxbJ51ot1k0EhBeG1aUos2IMUAZsGWsipZ1dyTi8bqzzqC\",
+\"role\":\"USER\"
+}"
 ```
 
 
@@ -110,7 +119,14 @@ public class UserRedisRepository {
 
 ```log
 127.0.0.1:6379> get user:quid
-"{\"registeredAt\":[2022,10,25,17,1,32,608662000],\"updatedAt\":[2022,10,25,17,1,32,608662000],\"removedAt\":null,\"id\":3,\"userName\":\"quid\",\"password\":\"$2a$10$UQuKxQrwxbJ51ot1k0EhBeG1aUos2IMUAZsGWsipZ1dyTi8bqzzqC\",\"role\":\"USER\"}"
+"{\"registeredAt\":[2022,10,25,17,1,32,608662000],
+\"updatedAt\":[2022,10,25,17,1,32,608662000],
+\"removedAt\":null,
+\"id\":3,
+\"userName\":\"quid\",
+\"password\":\"$2a$10$UQuKxQrwxbJ51ot1k0EhBeG1aUos2IMUAZsGWsipZ1dyTi8bqzzqC\",
+\"role\":\"USER\"
+}"
 ```
 
 
